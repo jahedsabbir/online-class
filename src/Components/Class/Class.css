@@ -1,0 +1,21 @@
+.course-style{
+    width : 400px;
+    margin:30px;
+    padding: 50px;
+    background-color: lightcoral;
+    box-shadow : 5px 5px 10px gray;  
+    text-align: center; 
+    font-size: 25px;        
+}
+.course-style img{
+    width:100%;
+    height: 300px;
+}
+.course-style button{
+    background-color:lightblue;
+    width:150px;
+    padding:10px;
+    border-radius: 10px;
+    border: none;
+    cursor: pointer;
+}
